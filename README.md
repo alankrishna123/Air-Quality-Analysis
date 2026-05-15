@@ -1,10 +1,1 @@
-# India Air Quality Data Analysis
-This project analyzes air pollution levels across different locations in India using pollutants like SO2 and NO2.
-
-Tools Used
-Python (Pandas, Matplotlib, Seaborn)
-Google Colab
-Key Insights
-Found the top 10 cities with the highest SO2 levels.
-Compared average NO2 levels across different Indian states.
-Visualized the distribution of station types.
+ndia-Air-Quality-AnalysisTo analyze air pollution levels across India and identify patterns in $SO_2$ and $NO_2$ concentrations.DatasetContains location, state, station type, and pollutant levels ($SO_2$, $NO_2$).Tools UsedPythonPandasMatplotlibSeabornGoogle ColabStepsData cleaning and handling missing values.Exploratory Data Analysis (EDA).State-wise and City-wise visualization.InsightsIdentified top 10 most polluted cities by $SO_2$.Compared average $NO_2$ levels across states.Visualized distribution of monitoring station types.ConclusionThe project highlights regional air quality trends and identifies areas with critical pollutant levels.
