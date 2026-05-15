@@ -1,33 +1,32 @@
-# Spotify Data Analysis Project 🎵
+# India Air Quality Analysis
 
-##  Overview
-This project analyzes Spotify songs data to identify music trends, popular artists, and genre preferences using Python.
+## Overview
+This project analyzes air quality data of Indian cities to study pollution levels and environmental trends using Python.
 
-##  Dataset
+## Dataset
 The dataset contains:
-- Song Name
-- Artist
-- Genre
-- Popularity
+- City
+- AQI (Air Quality Index)
+- Pollutant Levels
+- Date
 
-##  Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-##  Steps
+## Steps
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 
-##  Insights
-- Popular artists dominate the charts
-- Some genres are more popular than others
-- Song popularity varies across genres
+## Insights
+- Some cities have higher pollution levels
+- AQI changes over time
+- Pollutants affect air quality differently
 
-##  Conclusion
-The project helps understand music trends and listener preferences through data analysis.
+## Conclusion
+The project helps understand air pollution trends and environmental conditions in India.
 
-##  Author
-Your Name
+
